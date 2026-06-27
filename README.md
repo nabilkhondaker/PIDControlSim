@@ -12,6 +12,9 @@
 - [📁 Project Structure](#-project-structure)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [⚙️ Quick Start](#️-quick-start)
+  - [1. Prerequisites](#prerequisites)
+  - [2. Build & Run](#build--run)
+  - [3. Basic Usage Example](#basic-usage-example)
 - [📊 Simulation Capabilities](#-simulation-capabilities)
 - [🎯 Use Cases](#-use-cases)
 - [📋 Roadmap](#-roadmap)
@@ -87,12 +90,12 @@ PIDControlSim/
 
 ## ⚙️ Quick Start
 
-### Prerequisites
+### 1. Prerequisites
 - CMake (>= 3.10)
 - C++ compiler with C++20 support (GCC/Clang/MSVC)
 - (Optional) Python 3.x for scripting extensions
 
-### Build & Run
+### 2. Build & Run
 
 ```bash
 git clone https://github.com/nabilkhondaker/PIDControlSim.git
@@ -106,7 +109,7 @@ make
 ./PIDControlSim
 ```
 
-### Basic Usage Example
+### 3. Basic Usage Example
 
 ```cpp
 // Example in main.cpp or your test script
