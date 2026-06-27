@@ -18,7 +18,6 @@
 - [👤 Author](#-author)
 
 </details>
----
 
 ## 🚀 Engineering Overview
 
